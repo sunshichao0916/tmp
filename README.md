@@ -1,5 +1,0 @@
-# tmp
-
-
-```
-echo "hello world!"
